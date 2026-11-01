@@ -14,3 +14,8 @@ SO-101ロボットアームと模倣学習手法ACT（Action Chunking with Trans
 - 学習モデル：ACT
 - データ・モデル管理：Hugging Face Hub
 
+## リポジトリのファイル
+- `record_train.sh`：**データ収集コマンド
+- `train.sh`：**学習コマンド
+- `record_eval.sh`：実際に使用した評価用スクリプト
+- `upload_eval.sh`：評価用データアップロードスクリプト
